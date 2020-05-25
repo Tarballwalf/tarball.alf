@@ -1,5 +1,8 @@
 @font-face {
-    font-family: 'font';
-    src: url('https://tarballwalf.github.io/fonts/font-webfont.woff2') format('woff2'),
-         url('https://tarballwalf.github.io/fonts/font-webfont.woff') format('woff');
+    font-family: 'aihet_script_personal_use_oRg';
+    src: url('font-webfont.woff2') format('woff2'),
+         url('font-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
