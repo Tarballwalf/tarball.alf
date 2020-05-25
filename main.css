@@ -14,8 +14,8 @@
     left: 8px;
 }
 
-#nameandfont {
-    font: 128px 'I forgot the name';
+#name {
+    font: 128px 'aihet_script_personal_use';
     color: #910e0f;
     text-align: center;
 }
@@ -27,6 +27,10 @@
 }
 
 @font-face {
-    font-family: "I forgot the name";
-    src: url("fonts/font.tff");
+    font-family: 'aihet_script_personal_use';
+    src: url('font-1.woff2') format('woff2'),
+         url('font-1.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
 }
