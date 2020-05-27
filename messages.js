@@ -20,9 +20,14 @@ var messages = [
     'Reconsider your brain',
     'Hardcore Gay Yiff',
     'God is Dead, and we have Killed Him',
-    'DED_MOON is dead',
+    'DED_MOON was here',
     'No.',
     'Death.',
+    'The customer you are trying to call doesn\'t answer, try again later',
+    '\“If you tell a big enough lie and tell it frequently enough, it will be believed.\”',
+    'Too late to go back',
+    'Portal 2 best game',
+    '1986',
 ]
 function newMessage() {
         var randomNumber = Math.floor(Math.random() * (messages.length));
