@@ -37,3 +37,12 @@ line {
     font-weight: normal;
     font-style: normal;
 }
+
+@media 
+/* Small Screens */
+only screen and (max-width: 500px),
+/* Medium Screens */
+only screen and (min-device-width: 768px) and (max-device-width: 1024px) 
+{
+	body2 { display: padding; }
+}

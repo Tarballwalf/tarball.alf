@@ -1,7 +1,6 @@
 body2 {
     position: absolute;
-    left: 170px;
-    right: 170px;
+    padding: 120px;
 }
 
 #time {
