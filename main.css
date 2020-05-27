@@ -7,6 +7,10 @@ body {
     font: 14px 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
+line {
+    display: block;
+}
+
 #donotcopy {
     font-size: 11px;
     position: absolute;
@@ -26,8 +30,8 @@ body {
     font-weight: bold;
 }
 
-line {
-    line-height: 20%;
+#time {
+    font-size: 12px;
 }
 
 @font-face {
@@ -36,13 +40,4 @@ line {
          url('./fonts/aihet_script_personal_use_only.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-}
-
-@media 
-/* Small Screens */
-only screen and (max-width: 500px),
-/* Medium Screens */
-only screen and (min-device-width: 768px) and (max-device-width: 1024px) 
-{
-	body2 { display: padding; }
 }

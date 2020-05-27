@@ -1,8 +1,19 @@
-body2 {
-    position: absolute;
-    padding: 120px;
+.block {
+    font-size: 12px;
+    text-align: left;
+    margin-left:120px auto;
+    border: solid 1px cyan; /* for illustration only */
+    max-width: 682px;
 }
 
-#time {
-    font-size: 12px;
+.block2 {
+    margin-left: 0px auto;
+}
+
+@media 
+/* Small Screens */
+only screen and (max-width: 500px),
+/* Medium Screens */
+only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+	body2 { display: padding; }
 }
