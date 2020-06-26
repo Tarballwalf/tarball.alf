@@ -34,6 +34,14 @@ line {
     font-size: 14px;
 }
 
+#menu {
+    font-size: 14px;
+}
+
+#menu:hover {
+    text-decoration: underline;
+}
+
 @font-face {
     font-family: 'aihet';
     src: url('./fonts/aihet_script_personal_use_only.woff2') format('woff2'),
