@@ -4,7 +4,7 @@ var messages = [
     'You\'re lost',
     'Nope',
     ':(',
-    '"Oh. Hi. So. How are you holding up? BECAUSE I\'M A POTATO.',
+    '\"Oh. Hi. So. How are you holding up? BECAUSE I\'M A POTATO.\"',
     'Search deeper maybe',
     'This page was wiped from the face of the earth',
     'Ǹ̵̢̛̳̲̌͌̽̌̌̈̈͒̓̊͝͠͝ö̴͍͉̝̟̹͚͔͖̦̯́̓̏̆̄͘͜͝͝t̵͈̦̦̯͖͔̩̠̣̦̳̅̌͐͘͜ ̸̧̨̨̩͙̜̲̱̼̩̠̩̺̝̹͚̮͖̈́͊̃̓͂̊̓̎̇̔̄̀̕͘f̸̲̃̓̒̊̏̒̈́̒͘͠͝õ̷̢̨̨̢̧̺̖̬̘̹͇͐͋̇̈́̏̈́̇ų̴̣̺̜̳̤͖͚͔͎͈̦͖͚͖̭̓͂͒̀̂̌̍͛͂͒̑̆͑͒͐̓̀̑ͅn̷̡̮̗̥̼̲̗̟̉̂͌́͌̉̒̒̈́̆̉̍͊̎͛͌͠͠d̴͚̂̅͊̅̒̚̚',
