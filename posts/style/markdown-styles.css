@@ -185,7 +185,7 @@
     padding: 3px 5px;
     font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     line-height: 10px;
-    color: #444d56;
+    color: #ffffff;
     vertical-align: middle;
     background-color: #fafbfc;
     border: 1px solid #d1d5da;
@@ -468,12 +468,12 @@
   
   .markdown-body .pl-mi {
     font-style: italic;
-    color: #24292e;
+    color: #ffffff;
   }
   
   .markdown-body .pl-mb {
     font-weight: 700;
-    color: #24292e;
+    color: #ffffff;
   }
   
   .markdown-body .pl-md {
@@ -597,7 +597,7 @@
     padding: 3px 5px;
     font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     line-height: 10px;
-    color: #444d56;
+    color: #ffffff;
     vertical-align: middle;
     background-color: #fafbfc;
     border: 1px solid #d1d5da;
@@ -650,7 +650,7 @@
   
   .markdown-body blockquote {
     padding: 0 1em;
-    color: #6a737d;
+    color: #ffffff;
     border-left: .25em solid #dfe2e5;
   }
   
@@ -869,7 +869,7 @@
     font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 12px;
     line-height: 20px;
-    color: rgba(27,31,35,.3);
+    color: rgb(255, 255, 255);
     text-align: right;
     white-space: nowrap;
     vertical-align: top;
@@ -881,7 +881,7 @@
   }
   
   .markdown-body .blob-num:hover {
-    color: rgba(27,31,35,.6);
+    color: rgb(255, 255, 255);
   }
   
   .markdown-body .blob-num:before {
