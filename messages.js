@@ -32,7 +32,8 @@ var messages = [
     'YIFF at 16K RESOLUTION?? - HOLY $H!T',
     'Hexinity is a cutie',
     'Zhitri is a cutie',
-    'CBT'
+    'CBT',
+    'Avira is a cutie'
 ]
 function newMessage() {
         var randomNumber = Math.floor(Math.random() * (messages.length));
