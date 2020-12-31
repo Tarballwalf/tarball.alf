@@ -8,7 +8,7 @@
 * HDD(2): 2TB Segate Barracuda 7200rpm
 * Case: Kolink Stronghold
 * OS: Windows 10 Pro
-* [🖼️](https://i.imgur.com/jOrPL6y.jpg)
+* [🖼️](https://i.imgur.com/29fF79d.jpg)
 
 ## Setup:
 * Monitor 1: DELL S2419HGF 24" 144Hz
