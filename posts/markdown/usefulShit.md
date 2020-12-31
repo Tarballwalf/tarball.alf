@@ -1,4 +1,4 @@
-## A collection of recommended stuff I find useful or use
+### A collection of recommended stuff I find useful or use
 
 ### Windows
 * [Waifu2x-caffe](https://github.com/lltcggie/waifu2x-caffe) - because fuck the web version
