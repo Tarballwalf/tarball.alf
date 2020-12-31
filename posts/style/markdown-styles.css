@@ -869,7 +869,7 @@
     font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;
     font-size: 12px;
     line-height: 20px;
-    color: rgba(255, 255, 255, 0.3);
+    color: rgb(255, 255, 255);
     text-align: right;
     white-space: nowrap;
     vertical-align: top;
