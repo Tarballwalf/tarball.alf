@@ -16,6 +16,7 @@ And modify the file path and name of the "post".
 ![image3](./images/image3.png)
 
  ...and `line 22`.
+ 
 ![image4](./images/image4.png)
 
 5. Create the Markdown file (.md file) in the `markdown` directory.
