@@ -20,17 +20,17 @@
 * [VS Code](https://code.visualstudio.com) - Better then notepad
 * [icrawl.discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - People must know when you're editing config files for Minecraft servers
 * [Notepad++](https://notepad-plus-plus.org/) - Notepad but with 2 more pluses
-* [Steam Metro](https://metroforsteam.com) - Make steam look like it's form Windows 8.1. And one of the best skins out there
-* [7-Zip](https://7-zip.org) - For when that "40 day free trial" box gets too fucking annoying
+* [Steam Metro](https://metroforsteam.com) - Make steam look like it's form Windows 8.1. And one of the best themes out there
+* [7-Zip](https://7-zip.org) - "40 day free trial" box got too annoying
 * [Pulseway](https://www.pulseway.com) - Manage all your PCs and Servers remotely
-* [Media Plyer Classic Fork](https://github.com/clsid2/mpc-hc) - fuck that Windows thing, and this is much better then VLC. Jokes aside this one is still maintained to this day
+* [Media Plyer Classic Fork](https://github.com/clsid2/mpc-hc) - `Windows Movies and TV` can suck my ass, and this is much better then VLC. Jokes aside the fork is still maintained to this day
 * [Adobe Suite](https://www.adobe.com) - Adobe fucking fix your shit already
-* [Everything](https://voidtools.com) - When Windows search index is too dumb for it's existence
+* [Everything](https://voidtools.com) - When Windows search index is too retarded for it's existence
 * [LockHunter](https://lockhunter.com/) - "This file is used by another program" oh, fuck you
 * [Windirstat](https://windirstat.net/download.html) - List all directories on your PC
-* [QuickLook](https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s?activetab=pivot:overviewtab) - MacOS quick look on Windows
-* [EarTrumpet](https://www.microsoft.com/en-us/p/eartrumpet/9nblggh516xp?activetab=pivot:overviewtab) - BEST FUCKING THING IN EXISTENCE
-* [OBS Studio](https://obsproject.com/) - The only good recording program that's open source
+* [QuickLook](https://www.microsoft.com/en-us/p/quicklook/9nv4bs3l1h4s?activetab=pivot:overviewtab) - MacOS quick look for Windows
+* [EarTrumpet](https://www.microsoft.com/en-us/p/eartrumpet/9nblggh516xp?activetab=pivot:overviewtab) - BEST FUCKING THING POSSIBLE
+* [OBS Studio](https://obsproject.com/) - The only good recording program (besides Shadowplay). It's open source too
 * [Hamachi](https://vpn.net) - I'm sure you want to host servers and not give your public IP, or port forwarding is too much to ask for
 * [WhatPulse](https://whatpulse.org/) - Stats for your computer addiction
 * [f.lux](https://justgetflux.com/) - Makes your eyes feel better at night
