@@ -1,5 +1,5 @@
 ## How to create posts on my website
-###### This is not for the public. I've created this in case if I happen to forget.
+##### This is not for the public. I've created this in case if I happen to forget.
 
 1. Create a new `name.html` file in the `projects` directory.
 2. Add it to the `index.html` by creating a new line (copy pasting the one below).
