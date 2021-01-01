@@ -23,7 +23,7 @@
 * [Steam Metro](https://metroforsteam.com) - Make steam look like it's form Windows 8.1. And one of the best themes out there
 * [7-Zip](https://7-zip.org) - "40 day free trial" box got too annoying
 * [Pulseway](https://www.pulseway.com) - Manage all your PCs and Servers remotely
-* [Media Plyer Classic Fork](https://github.com/clsid2/mpc-hc) - `Windows Movies and TV` can suck my ass, and this is much better then VLC. Jokes aside the fork is still maintained to this day
+* [Media Player Classic Fork](https://github.com/clsid2/mpc-hc) - `Windows Movies and TV` can suck my ass, and this is much better then VLC. Jokes aside the fork is still maintained to this day
 * [Adobe Suite](https://www.adobe.com) - Adobe fucking fix your shit already
 * [Everything](https://voidtools.com) - When Windows search index is too retarded for it's existence
 * [LockHunter](https://lockhunter.com/) - "This file is used by another program" oh, fuck you
