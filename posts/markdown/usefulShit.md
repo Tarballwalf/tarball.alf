@@ -82,6 +82,7 @@
 * [SD Maid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm&hl=en_US) - This thing is better then that Samsung Device Care shit
 * [Instander](https://thedise.me/instander/) - Modded Instagram
 * [YouTube Vanced](https://vanced.app/) - A much better YouTube app
+* [Tap, Tap](https://forum.xda-developers.com/t/app-beta-0-9-tap-tap-double-tap-on-back-of-device-gesture-from-android-11-port.4140573/) - Since Samsung removed their back fingerprint sensors I have been looking for something like this
 
 ### Services
 * [Last.fm](https://www.last.fm/) - Keep track of your tunes
