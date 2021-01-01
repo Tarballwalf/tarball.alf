@@ -8,14 +8,14 @@
 * [Chocolatey](https://chocolatey.org/) - `sudo apt install` for fucking Windows
 * [Spicefy-cli](https://github.com/khanhas/spicetify-cli/) - Fuck the default Spotify
 * [BBDInstaller](https://github.com/rauenzi/BBDInstaller/releases) - Fuck the default Discord
-* [Aero Glass](http://www.glass8.eu/) - I don't use it because too poor for a license but it's really cool. Not sure if it works with the latest version of Windows 10
+* [Aero Glass](http://www.glass8.eu/) - Windows 7 Aero Glass for Windows 8.1 and 10. Not sure if it works with the latest version of Windows 10
 * [PreMiD](https://premid.app/) - Everyone on Discord must know what furry videos you're watching
-* [yumi](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - That moment when you have lots of ISOs and a 64GB flash drive. no? just me?
+* [YUMI](https://www.pendrivelinux.com/yumi-multiboot-usb-creator/) - That moment when you have lots of ISOs and a 64GB flash drive. no? just me?
 * <del>[KDE Connect](https://community.kde.org/KDEConnect/Build_Windows) - Sync your phone to Windows (without My Phone App)</del> Extremely buggy
 * [MSI Afterburner](https://www.msi.com/page/afterburner) - Overclock your shit 1050Ti
 * [HwInfo](https://www.hwinfo.com/) - Make sure your new Room Heater™️ is working at it's full potential
-* [Process Hacker 2](https://processhacker.sourceforge.io) - Much more powerfull Task Manager 
-* [iperf](https://iperf.fr/) - It's SpeedTest but for your local network
+* [Process Hacker 2](https://processhacker.sourceforge.io) - Much powerful Task Manager 
+* [iperf3](https://iperf.fr/) - It's SpeedTest but for your local network
 * [Voice Meter](https://www.vb-audio.com/Voicemeeter/index.htm) - Helps you separate audio channels, but it has more awesome features
 * [VS Code](https://code.visualstudio.com) - Better then notepad
 * [icrawl.discord-vscode](https://marketplace.visualstudio.com/items?itemName=icrawl.discord-vscode) - People must know when you're editing config files for Minecraft servers
