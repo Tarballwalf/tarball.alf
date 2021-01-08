@@ -13,7 +13,7 @@ line {
 
 #donotcopy {
     font-size: 11px;
-    position: absolute;
+    position: fixed;
     bottom: 8px;
     left: 8px;
 }
