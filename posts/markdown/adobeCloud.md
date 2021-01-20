@@ -3,7 +3,7 @@
 These are the links for getting the Adobe Cloud pre-activated.
 
 ### Torrent download: (Almost always up to date)
-* [www.monkrus.ws](www.monkrus.ws) 
+* [www.monkrus.ws](http://www.monkrus.ws) 
 
 Choose `RUTRACKER.RU`
 
