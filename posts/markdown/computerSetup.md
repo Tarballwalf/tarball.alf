@@ -43,6 +43,6 @@ Dell Inspiron 3542
 
 ## Phone:
 * Galaxy S10+ Ceramic Black 128GB
-* Exyos 9820 Variant
+* Exynos 9820 Variant
 * SM-G975F
 * [Image](/images/computerSetup/phone.jpg)
