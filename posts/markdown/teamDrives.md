@@ -2,8 +2,9 @@
 
 These websites allow you to get team drives/shared drives from different school domains
 
-* [Multiple schools](https://td.fastio.me/)
-* [Hackgence](https://td.hackgence.com/)
+* [Multiple schools](https://td.fastio.me/) (Not Working)
+* [Hackgence](https://td.hackgence.com/) (Slowly fading away)
+* [Msgsuite](https://td.msgsuite.workers.dev/)
 
 I suggest choosing drives from EDU domains as I've had times where the drive would get deleted from random domains.
 
