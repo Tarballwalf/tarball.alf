@@ -20,6 +20,6 @@ I suggest getting more then one team drive from different domains and keep backu
 
 First colum is the name of the team drive. The second colum is Gmail address of the team drive.
 
-If you're worried about the safety of the data in the dives, school admins won't take them down if you keep them private. More information about team drives [here](https://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23)
+If you're worried about the safety of the data in the dives, school admins won't take them down if you keep them private. More information about team drives [here](https://telegra.ph/A-complete-guide-of-shared-drive-Team-drive-01-23).
 
 Sources: [telegra.ph](https://telegra.ph/Script-for-getting-free-team-drives-01-30), [msgsuite](https://www.t.me/msgsuite)
