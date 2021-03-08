@@ -6,9 +6,9 @@ These websites allow you to get team drives/shared drives from different school 
 * [Hackgence](https://td.hackgence.com/) (Slowly fading away)
 * [Msgsuite](https://td.msgsuite.workers.dev/)
 
-Because of the huge amount of abuse, Goolag has started adding restrictions on EDU domains. Schools and university with a free subscription will ONLY have 100TB of storage for all users IN TOTAL, the more students a university has, the less storage you will have (depending on each user's storage usage).
+Because of the huge amount of abuse, Google has started adding restrictions on EDU domains. Schools and university with a free subscription will ONLY have 100TB of storage for all users IN TOTAL, the more students a university has, the less storage you will have (depending on each user's storage usage).
 
-You can use non profit organizations shared drive (they are not limited yet) but don't abuse them or Goolag will put limits on non profit subscription too.
+You can use non profit organizations shared drive (they are not limited yet) but don't abuse them or Google will put limits on non profit subscription too.
 
 I suggest getting more then one team drive from different domains and keep backups.
 
