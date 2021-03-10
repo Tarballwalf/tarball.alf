@@ -26,7 +26,7 @@ Before starting off, this is a guide on how to install Office 2019 using Volume 
 
 Once you have a copy of the ODT, you need to create a configuration.xml file.
 
-```
+```xml
 <Configuration>
   <Add SourcePath="C:\OfficeSetup" OfficeClientEdition="64" Channel="PerpetualVL2019">
       <Product ID="ProPlus2019Volume"  PIDKEY="#####-#####-#####-#####-#####" >
