@@ -22,7 +22,7 @@ Before starting off, this is a guide on how to install Office 2019 using Volume 
 
 4. When you are finished, your new `OfficeSetup` folder should have a file named `setup.exe` and some sample `configuration.xml` files. Delete the configuration files. You only need to keep the setup file.
 
-### Download and/or Prepare the Configuration File
+### Prepare the Configuration File
 
 Once you have a copy of the ODT, you need to create a configuration.xml file.
 
@@ -44,7 +44,7 @@ Refer to [this guide](https://docs.microsoft.com/en-us/deployoffice/office2019/d
 
 | Office Suites                          | Project                       | Visio                            |
 |----------------------------------------|-------------------------------|----------------------------------|
-| [Office Standard 2019 (32-bit)](./assets/deployOffice2019/configuration-office-standard-2019-32-bit.xml)          | [Project 2019 (32-bit)](./assets/deployOffice2019/configuration-project-standard-2019-32-bit.xml)          | [Visio Standard 2019 (32-bit)](./assets/deployOffice2019/configuration-visio-standard-2019-32-bit.xml)    |
+| [Office Standard 2019 (32-bit)](./assets/deployOffice2019/configuration-project-standard-2019-32-bit.xml)          | [Visio Standard 2019 (32-bit)](./assets/deployOffice2019/configuration-visio-standard-2019-32-bit.xml)    |
 | [Office Standard 2019 (64-bit)](./assets/deployOffice2019/configuration-office-standard-2019-64-bit.xml)          | [Project 2019 (64-bit)](./assets/deployOffice2019/configuration-project-standard-2019-64-bit.xml)         | [Visio Standard 2019 (64-bit)](./assets/deployOffice2019/configuration-visio-standard-2019-64-bit.xml)     |
 | [Office Professional Plus 2019 (32-bit)](./assets/deployOffice2019/configuration-office-professional-plus-2019-32-bit.xml) | [Project Professional (32-bit)](./assets/deployOffice2019/configuration-project-professional-2019-32-bit.xml) | [Visio Professional 2019 (32-bit)](./assets/deployOffice2019/configuration-visio-professional-2019-32-bit.xml) |
 | [Office Professional Plus 2019 (64-bit)](./assets/deployOffice2019/configuration-office-professional-plus-2019-64-bit.xml) | [Project Professional (64-bit)](./assets/deployOffice2019/configuration-project-professional-2019-64-bit.xml) | [Visio Professional 2019 (64-bit)](./assets/deployOffice2019/configuration-visio-professional-2019-64-bit.xml) |
