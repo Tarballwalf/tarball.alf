@@ -81,4 +81,4 @@ It will look as if nothing is happening, but your product will be downloading in
 
 And, you're done! You an now start enjoying the installed product.
 
-Sources: [techsoup.org](https://www.techsoup.org/support/articles-and-how-tos/how-to-download-and-install-microsoft-office-2019-products-requested-from-techsoup), [Microsoft](https://docs.microsoft.com/en-us/deployoffice/office2019/deploy#sample-configurationxml-file-to-use-with-the-office-deployment-tool)/[Keys](https://docs.microsoft.com/en-us/DeployOffice/vlactivation/gvlks)
+Sources: [techsoup.org](https://www.techsoup.org/support/articles-and-how-tos/how-to-download-and-install-microsoft-office-2019-products-requested-from-techsoup), [Microsoft](https://docs.microsoft.com/en-us/deployoffice/office2019/deploy)/[Keys](https://docs.microsoft.com/en-us/DeployOffice/vlactivation/gvlks)
