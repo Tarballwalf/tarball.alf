@@ -107,12 +107,7 @@ input {
   border-style: dashed 1px;
 }
 .search {
-  width: 200px;
+  width: 100%;
   padding-right: 0px;
   padding-left: 0px;
-}
-.submit {
-  width: 70px;
-  color: #ffffff;
-  cursor: pointer;
-}
+} 
