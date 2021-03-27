@@ -1,3 +1,4 @@
+// Tree View
 var toggler = document.getElementsByClassName("caret");
 var i;
 
@@ -8,6 +9,7 @@ for (i = 0; i < toggler.length; i++) {
   });
 }
 
+// Search option
 function search() {
   var input, filter, ul, li, a, i;
   input = document.getElementById("getSearch");
@@ -23,3 +25,6 @@ function search() {
     }
   }
 }
+
+// Random shit
+console.log("What are you doing here?")
