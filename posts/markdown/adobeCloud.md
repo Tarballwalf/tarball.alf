@@ -19,7 +19,7 @@ After you register, you will be able to see the torrent file and magnet link.
 
 ![rutracker](./assets/adobeCloud/rutracker.png)
 
-Download it like you would normally do with a torrent.
+Download it as you would normally do with a torrent.
 
 For installation check out [this](https://telegra.ph/Guide-of-Installation-05-19) guide
 
