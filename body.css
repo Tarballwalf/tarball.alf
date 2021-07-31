@@ -127,7 +127,6 @@ form {
 }
 
 #gallery img {
-  image-rendering: optimizeSpeed !important;
   width: 100% !important;
   height: auto !important;
   margin-bottom:5px;
