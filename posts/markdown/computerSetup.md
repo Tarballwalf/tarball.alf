@@ -41,7 +41,7 @@ Lenovo Thinkpad T560
 * OS: Ubuntu 20.04 LTS
 * [Image](./assets/computerSetup/laptop.jpg)
 
-~~Dell Inspiron 3542~~ (Retiered)
+~~Dell Inspiron 3542~~ (Retired)
 * CPU: Intel Pentium 3558U
 * GPU: Nvidia GeForce 820M
 * RAM: 8GB DDR3L HyperX Impact 1600MHz
